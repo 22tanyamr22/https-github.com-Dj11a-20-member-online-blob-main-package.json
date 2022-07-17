@@ -1,7 +1,29 @@
 const Discord = require("discord.js");
 const dj = new Discord.Client();
-
- 
+const dj2 = new Discord.Client();
+const dj3 = new Discord.Client();
+const dj4 = new Discord.Client();
+const dj5 = new Discord.Client();
+const dj6 = new Discord.Client();
+const dj7 = new Discord.Client();
+const dj8 = new Discord.Client();
+const dj9 = new Discord.Client();
+const dj10 = new Discord.Client();
+const dj11 = new Discord.Client();
+const dj12 = new Discord.Client();
+const dj13 = new Discord.Client();
+const dj14 = new Discord.Client();
+const dj15 = new Discord.Client();
+const dj16 = new Discord.Client();
+const dj17 = new Discord.Client();
+const dj18 = new Discord.Client();
+const dj19 = new Discord.Client();
+const dj20 = new Discord.Client();
+const dj21 = new Discord.Client();
+ const dj22 = new Discord.Client();
+const dj23 = new Discord.Client();
+const dj24 = new Discord.Client();
+const dj25 = new Discord.Client();
 
 
 ////////////
