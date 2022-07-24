@@ -29,7 +29,7 @@ const dj25 = new Discord.Client();
 ////////////
 const prefix = "emprator";
 ////////////
-dj.login("");
+dj.login("MTAwMDc5OTk5NzA3NzUwNDA1MQ.GKRVxX.v9kipTPusRp_Z_8VGRkex048kiFtXEbk5d4OfI");
 dj.on("message", message => {
   if (message.channel.id === "NONE") {
     message.react("🤍").then(() => {
